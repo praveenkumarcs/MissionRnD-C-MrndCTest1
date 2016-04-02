@@ -99,8 +99,6 @@ int * find_sequences(int *arr, int len){
 
 
 
-
-
 	return ptr;
 
 }
